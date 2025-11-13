@@ -86,6 +86,12 @@ The dataset includes solar radiation measurements with the following key variabl
 3. **Cross-Country Comparison**: Statistical testing and comparative visualizations
 4. **Interactive Dashboard**: Streamlit-based visualization tool
 
+## Screenshots & Visual Results
+<img width="1920" height="874" alt="image" src="https://github.com/user-attachments/assets/1ec5ba1b-fb5d-41b9-bf3f-a3acaa357d21" />
+<img width="1917" height="875" alt="image" src="https://github.com/user-attachments/assets/b16a5e06-ec0d-4fa3-b26b-b4724c5bc298" />
+<img width="1917" height="863" alt="image" src="https://github.com/user-attachments/assets/7b6e3864-b4b2-4b17-bb9b-24d9dfd7938c" />
+<img width="1915" height="858" alt="image" src="https://github.com/user-attachments/assets/dff8b05b-0029-401d-bf45-712339075f13" />
+
 
 ## Contributors
 - Beamlak Tamirat
